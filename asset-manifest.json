@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BetaAutoTrade.git/static/css/main.1d26d1e9.chunk.css",
+    "main.js": "/BetaAutoTrade.git/static/js/main.ff703361.chunk.js",
+    "main.js.map": "/BetaAutoTrade.git/static/js/main.ff703361.chunk.js.map",
+    "runtime-main.js": "/BetaAutoTrade.git/static/js/runtime-main.1f07bb2a.js",
+    "runtime-main.js.map": "/BetaAutoTrade.git/static/js/runtime-main.1f07bb2a.js.map",
+    "static/js/2.33b88895.chunk.js": "/BetaAutoTrade.git/static/js/2.33b88895.chunk.js",
+    "static/js/2.33b88895.chunk.js.map": "/BetaAutoTrade.git/static/js/2.33b88895.chunk.js.map",
+    "index.html": "/BetaAutoTrade.git/index.html",
+    "precache-manifest.f98009c6bb9fbedd6d3cc98ea5010bd9.js": "/BetaAutoTrade.git/precache-manifest.f98009c6bb9fbedd6d3cc98ea5010bd9.js",
+    "service-worker.js": "/BetaAutoTrade.git/service-worker.js",
+    "static/css/main.1d26d1e9.chunk.css.map": "/BetaAutoTrade.git/static/css/main.1d26d1e9.chunk.css.map",
+    "static/js/2.33b88895.chunk.js.LICENSE.txt": "/BetaAutoTrade.git/static/js/2.33b88895.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/BetaAutoTrade.git/static/media/logo.674b9979.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f07bb2a.js",
+    "static/js/2.33b88895.chunk.js",
+    "static/css/main.1d26d1e9.chunk.css",
+    "static/js/main.ff703361.chunk.js"
+  ]
+}
