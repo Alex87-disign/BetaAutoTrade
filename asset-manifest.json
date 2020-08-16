@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/BetaAutoTrade.git/static/css/main.1d26d1e9.chunk.css",
-    "main.js": "/BetaAutoTrade.git/static/js/main.ff703361.chunk.js",
-    "main.js.map": "/BetaAutoTrade.git/static/js/main.ff703361.chunk.js.map",
-    "runtime-main.js": "/BetaAutoTrade.git/static/js/runtime-main.1f07bb2a.js",
-    "runtime-main.js.map": "/BetaAutoTrade.git/static/js/runtime-main.1f07bb2a.js.map",
-    "static/js/2.33b88895.chunk.js": "/BetaAutoTrade.git/static/js/2.33b88895.chunk.js",
-    "static/js/2.33b88895.chunk.js.map": "/BetaAutoTrade.git/static/js/2.33b88895.chunk.js.map",
-    "index.html": "/BetaAutoTrade.git/index.html",
-    "precache-manifest.f98009c6bb9fbedd6d3cc98ea5010bd9.js": "/BetaAutoTrade.git/precache-manifest.f98009c6bb9fbedd6d3cc98ea5010bd9.js",
-    "service-worker.js": "/BetaAutoTrade.git/service-worker.js",
-    "static/css/main.1d26d1e9.chunk.css.map": "/BetaAutoTrade.git/static/css/main.1d26d1e9.chunk.css.map",
-    "static/js/2.33b88895.chunk.js.LICENSE.txt": "/BetaAutoTrade.git/static/js/2.33b88895.chunk.js.LICENSE.txt",
-    "static/media/logo.jpg": "/BetaAutoTrade.git/static/media/logo.674b9979.jpg"
+    "main.css": "/Alex87-disign/BetaAutoTrade.git/static/css/main.1d26d1e9.chunk.css",
+    "main.js": "/Alex87-disign/BetaAutoTrade.git/static/js/main.3e267eaf.chunk.js",
+    "main.js.map": "/Alex87-disign/BetaAutoTrade.git/static/js/main.3e267eaf.chunk.js.map",
+    "runtime-main.js": "/Alex87-disign/BetaAutoTrade.git/static/js/runtime-main.21cd6f7c.js",
+    "runtime-main.js.map": "/Alex87-disign/BetaAutoTrade.git/static/js/runtime-main.21cd6f7c.js.map",
+    "static/js/2.33b88895.chunk.js": "/Alex87-disign/BetaAutoTrade.git/static/js/2.33b88895.chunk.js",
+    "static/js/2.33b88895.chunk.js.map": "/Alex87-disign/BetaAutoTrade.git/static/js/2.33b88895.chunk.js.map",
+    "index.html": "/Alex87-disign/BetaAutoTrade.git/index.html",
+    "precache-manifest.4926a7c5d4f5ff4ab4e26aef2986c0c9.js": "/Alex87-disign/BetaAutoTrade.git/precache-manifest.4926a7c5d4f5ff4ab4e26aef2986c0c9.js",
+    "service-worker.js": "/Alex87-disign/BetaAutoTrade.git/service-worker.js",
+    "static/css/main.1d26d1e9.chunk.css.map": "/Alex87-disign/BetaAutoTrade.git/static/css/main.1d26d1e9.chunk.css.map",
+    "static/js/2.33b88895.chunk.js.LICENSE.txt": "/Alex87-disign/BetaAutoTrade.git/static/js/2.33b88895.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/Alex87-disign/BetaAutoTrade.git/static/media/logo.674b9979.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f07bb2a.js",
+    "static/js/runtime-main.21cd6f7c.js",
     "static/js/2.33b88895.chunk.js",
     "static/css/main.1d26d1e9.chunk.css",
-    "static/js/main.ff703361.chunk.js"
+    "static/js/main.3e267eaf.chunk.js"
   ]
 }
