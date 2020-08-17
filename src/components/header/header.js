@@ -1,28 +1,48 @@
 import React from 'react'
-import logo from '../../img/logo.jpg'
 import './header.css'
 import Openmenu from '../../Redux/Redux'
+import Logo from './logo'
+import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom'
+import CarsFromUsa from '../CarsFromUsa/CarsFromUsa'
+import Broker from '../Broker/broker'
+import Contacts from '../Contacts/contacts'
+import EuroCar from '../EuroCar/eurocar'
+import LituvaCar from '../LituvaCar/lituvacar'
+import Tax from '../Tax/tax'
+import OurWorks from '../OurWokrs/ourworks'
 
-const Header = ()=>{
- return(
-        <header className="header">
-        <div className="logo">
-         <a href=""> <img className="graficlogo" src={logo} alt="Logo" /></a>
-        </div>
+
+const Header = () => {
+  return (
+    
+    <Router>
+      <header className="header">
+        <Route path='/' component={Logo} />
         <nav>
-          <div  id="myTopnav" className="topnav">
-            <a href="">Авто из США</a>
-            <a href="">Авто из Европы</a>
-            <a href="">Авто из Литвы без растаможки</a>
-            <a href="">Брокерские услуги</a>
-            <a href="">Таможенная очистка авто</a>
-            <a href="">Примеры наших работ</a>
-            <a href="">Контакты</a>
-            <a id="menu" href="#" className="icon" 
-            onClick={Openmenu}>&#9776;</a>
+          <div id="myTopnav" className="topnav">
+            <Link to="/usa_car" className="active" onClick={Openmenu}>Авто из США</Link>
+            <Link to="/euro_car" className="active" onClick={Openmenu}>Авто из Европы</Link>
+            <Link to="/lituva_car" className="active" onClick={Openmenu}>Авто из Литвы без растаможки</Link>
+            <Link to="/broker" className="active" onClick={Openmenu}>Брокерские услуги</Link>
+            <Link to="/tax" className="active" onClick={Openmenu}>Таможенная очистка авто</Link>
+            <Link to="/our_works" className="active" onClick={Openmenu}>Примеры наших работ</Link>
+            <Link to="/contacts" className="active" onClick={Openmenu}>Контакты</Link>
+            <Link id="menu" href="#" className="icon"
+              onClick={Openmenu}>&#9776;</Link>
           </div>
         </nav>
       </header>
-    )
+      <Switch>
+        <Route path="/usa_car" component={CarsFromUsa} />
+        <Route path="/euro_car" component={EuroCar} />
+        <Route path="/lituva_car" component={LituvaCar} />
+        <Route path="/broker" component={Broker} />        
+        <Route path="/tax" component={Tax} />
+        <Route path="/our_works" component={OurWorks} />
+        <Route path="/Contacts" component={Contacts} />
+      </Switch>
+    </Router>
+
+  )
 }
 export default Header
