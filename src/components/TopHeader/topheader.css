@@ -31,7 +31,30 @@
     box-sizing: border-box;
     justify-content: center;
 }
-.phone{
-    color: azure;
+.phone a{
+    color: rgb(182, 26, 72);
     justify-content: center;
+    text-decoration-color: none;
+    text-decoration-line: none;
+}
+.viber:hover{
+    color: blanchedalmond;
+}
+p:hover{
+    color: blanchedalmond;
+}
+.phone{
+    color: rgb(182, 26, 72);
+}
+@media screen and (max-width:768px){
+    .graficlogo{
+    padding: 5px;
+    width: 150px;
+    height: 135px;
+        /* border-radius: 200px;
+        max-width: 100%;
+        box-sizing: border-box;
+        justify-content: center; */
+    }  
+
 }

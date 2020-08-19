@@ -1,9 +1,14 @@
 .carsfromusa{
     padding: 50px;
     border: 1px solid black;
+    font-family: 'Alata', sans-serif;
+    font-size: 90%;
+}
+li{
+    padding-top: 10px;
 }
 .usa_flag{
-
+text-align: left;
 }
 .important{
     color:rgb(214, 67, 67);
@@ -20,4 +25,9 @@ font-family: 'Open Sans', sans-serif;
         border-radius: 50px;
     }
     
+}
+
+.first:first-letter{
+    color:red;
+    font-size: 150%;
 }
