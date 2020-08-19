@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49cb118a087375d0fb2e213c4679ac66",
+    "revision": "5915ac6ce9f3836e7846d438ccc2e3c0",
     "url": "/BetaAutoTrade/index.html"
   },
   {
-    "revision": "dc9bc8173bf465f9a17b",
-    "url": "/BetaAutoTrade/static/css/main.460c8925.chunk.css"
+    "revision": "a8c46d7817849a5c5e2d",
+    "url": "/BetaAutoTrade/static/css/main.6392b47d.chunk.css"
   },
   {
     "revision": "90ce8cdca305cfebd5be",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BetaAutoTrade/static/js/2.c438838a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc9bc8173bf465f9a17b",
+    "revision": "a8c46d7817849a5c5e2d",
     "url": "/BetaAutoTrade/static/js/main.6a69b6b7.chunk.js"
   },
   {
