@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BetaAutoTrade/precache-manifest.5fbaf02144d8ae76174cbf5c13362cce.js"
+  "/BetaAutoTrade/precache-manifest.31acf3b4bcb700499a9f5e5f1369161d.js"
 );
 
 self.addEventListener('message', (event) => {

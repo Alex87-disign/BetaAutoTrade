@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/BetaAutoTrade/static/css/main.6392b47d.chunk.css",
-    "main.js": "/BetaAutoTrade/static/js/main.6a69b6b7.chunk.js",
-    "main.js.map": "/BetaAutoTrade/static/js/main.6a69b6b7.chunk.js.map",
+    "main.css": "/BetaAutoTrade/static/css/main.3ec8a2c3.chunk.css",
+    "main.js": "/BetaAutoTrade/static/js/main.cd2b8205.chunk.js",
+    "main.js.map": "/BetaAutoTrade/static/js/main.cd2b8205.chunk.js.map",
     "runtime-main.js": "/BetaAutoTrade/static/js/runtime-main.d1b0da35.js",
     "runtime-main.js.map": "/BetaAutoTrade/static/js/runtime-main.d1b0da35.js.map",
-    "static/js/2.c438838a.chunk.js": "/BetaAutoTrade/static/js/2.c438838a.chunk.js",
-    "static/js/2.c438838a.chunk.js.map": "/BetaAutoTrade/static/js/2.c438838a.chunk.js.map",
+    "static/js/2.b007b8c8.chunk.js": "/BetaAutoTrade/static/js/2.b007b8c8.chunk.js",
+    "static/js/2.b007b8c8.chunk.js.map": "/BetaAutoTrade/static/js/2.b007b8c8.chunk.js.map",
     "index.html": "/BetaAutoTrade/index.html",
-    "precache-manifest.5fbaf02144d8ae76174cbf5c13362cce.js": "/BetaAutoTrade/precache-manifest.5fbaf02144d8ae76174cbf5c13362cce.js",
+    "precache-manifest.31acf3b4bcb700499a9f5e5f1369161d.js": "/BetaAutoTrade/precache-manifest.31acf3b4bcb700499a9f5e5f1369161d.js",
     "service-worker.js": "/BetaAutoTrade/service-worker.js",
-    "static/css/main.6392b47d.chunk.css.map": "/BetaAutoTrade/static/css/main.6392b47d.chunk.css.map",
-    "static/js/2.c438838a.chunk.js.LICENSE.txt": "/BetaAutoTrade/static/js/2.c438838a.chunk.js.LICENSE.txt",
+    "static/css/main.3ec8a2c3.chunk.css.map": "/BetaAutoTrade/static/css/main.3ec8a2c3.chunk.css.map",
+    "static/js/2.b007b8c8.chunk.js.LICENSE.txt": "/BetaAutoTrade/static/js/2.b007b8c8.chunk.js.LICENSE.txt",
     "static/media/facebook.png": "/BetaAutoTrade/static/media/facebook.2da305ee.png",
     "static/media/logo.jpg": "/BetaAutoTrade/static/media/logo.674b9979.jpg",
     "static/media/telegram.png": "/BetaAutoTrade/static/media/telegram.f2065019.png",
-    "static/media/usagif.gif": "/BetaAutoTrade/static/media/usagif.9b5c130f.gif"
+    "static/media/usagif.gif": "/BetaAutoTrade/static/media/usagif.9b5c130f.gif",
+    "static/media/viber.png": "/BetaAutoTrade/static/media/viber.07c0f475.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d1b0da35.js",
-    "static/js/2.c438838a.chunk.js",
-    "static/css/main.6392b47d.chunk.css",
-    "static/js/main.6a69b6b7.chunk.js"
+    "static/js/2.b007b8c8.chunk.js",
+    "static/css/main.3ec8a2c3.chunk.css",
+    "static/js/main.cd2b8205.chunk.js"
   ]
 }
