@@ -1,5 +1,6 @@
 .carsfromusa{
     padding: 50px;
+    border: 1px solid black;
 }
 .usa_flag{
 
@@ -14,6 +15,9 @@
         padding: 10px;
         font-family: 'Libre Caslon Display', serif;
 font-family: 'Open Sans', sans-serif;
+    }
+    .logo{
+        border-radius: 50px;
     }
     
 }
