@@ -1,7 +1,6 @@
 import React from 'react'
 import './header.css'
 import Openmenu from '../../Redux/Redux'
-import Logo from './logo'
 import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom'
 import CarsFromUsa from '../CarsFromUsa/CarsFromUsa'
 import Broker from '../Broker/broker'
@@ -10,14 +9,16 @@ import EuroCar from '../EuroCar/eurocar'
 import LituvaCar from '../LituvaCar/lituvacar'
 import Tax from '../Tax/tax'
 import OurWorks from '../OurWokrs/ourworks'
+import TopHeader from '../TopHeader/topheader'
+
 
 
 const Header = () => {
   return (
-    
+
     <Router>
       <header className="header">
-        <Route path='/' component={Logo} />
+        <TopHeader/>
         <nav>
           <div id="myTopnav" className="topnav">
             <Link to="/usa_car" className="active" onClick={Openmenu}>Авто из США</Link>
@@ -36,7 +37,7 @@ const Header = () => {
         <Route path="/usa_car" component={CarsFromUsa} />
         <Route path="/euro_car" component={EuroCar} />
         <Route path="/lituva_car" component={LituvaCar} />
-        <Route path="/broker" component={Broker} />        
+        <Route path="/broker" component={Broker} />
         <Route path="/tax" component={Tax} />
         <Route path="/our_works" component={OurWorks} />
         <Route path="/Contacts" component={Contacts} />

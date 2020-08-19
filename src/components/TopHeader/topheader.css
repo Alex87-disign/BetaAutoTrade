@@ -1,0 +1,37 @@
+.top_header{
+    display: grid;
+    grid-template-areas: "a b c";
+    grid-template-columns: 1fr 1fr 1fr;
+    background: linear-gradient(36deg, #616c6e, #252b31, #051520);
+    width: 100%;
+    justify-content: center;
+    justify-items: center;
+}
+.social{
+    padding-top: 30px;
+    grid-area:a;
+    grid-template-columns: 1fr 1fr;
+   justify-items: center;
+    
+}
+.telegram{
+    padding-top: 20px;
+}
+.logo{
+   grid-area: b;  
+   justify-content: center; 
+   padding-top: 10px;
+}
+.graficlogo{
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    max-width: 100%;
+    box-sizing: border-box;
+    justify-content: center;
+}
+.phone{
+    color: azure;
+    justify-content: center;
+}
