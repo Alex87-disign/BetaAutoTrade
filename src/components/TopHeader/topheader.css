@@ -40,12 +40,22 @@
 .viber:hover{
     color: blanchedalmond;
 }
-p:hover{
-    color: blanchedalmond;
-}
+
+ 
+
 .phone{
     color: rgb(182, 26, 72);
 }
+.mobile_phone{
+    color: blanchedalmond;
+}
+.mobile_phone{
+    animation: blink 2s infinite;
+    }
+    @keyframes mobile_phone{
+      from { opacity: 1; /* Непрозрачный текст */ }
+      to { opacity: 0; /* Прозрачный текст */ }
+     }
 @media screen and (max-width:768px){
     .graficlogo{
     padding: 5px;
@@ -56,5 +66,8 @@ p:hover{
         box-sizing: border-box;
         justify-content: center; */
     }  
+    .viber{
+        font-size: small;
+    }
 
 }

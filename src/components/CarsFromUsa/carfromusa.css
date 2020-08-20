@@ -3,6 +3,9 @@
     border: 1px solid black;
     font-family: 'Alata', sans-serif;
     font-size: 90%;
+    background-color: rgb(231, 231, 231);
+    margin: 20px;
+    margin-top: 0px;
 }
 li{
     padding-top: 10px;
@@ -12,6 +15,9 @@ text-align: left;
 }
 .important{
     color:rgb(214, 67, 67);
+}
+.first{
+    color: black;
 }
 
 @media screen and (max-width:768px){
