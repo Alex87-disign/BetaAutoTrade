@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a63e88beca6b67d2fd2c02b0d8ab091",
+    "revision": "4e362414872250a857ce604a6861d7be",
     "url": "/BetaAutoTrade/index.html"
   },
   {
-    "revision": "06fc0c963befe1edd181",
-    "url": "/BetaAutoTrade/static/css/main.11f375a9.chunk.css"
+    "revision": "fdd721b08c76cd76ecda",
+    "url": "/BetaAutoTrade/static/css/main.ffacf2cc.chunk.css"
   },
   {
     "revision": "6c7fc0ea0d8a734b2917",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BetaAutoTrade/static/js/2.2f61e089.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06fc0c963befe1edd181",
-    "url": "/BetaAutoTrade/static/js/main.18b616c0.chunk.js"
+    "revision": "fdd721b08c76cd76ecda",
+    "url": "/BetaAutoTrade/static/js/main.4ce91357.chunk.js"
   },
   {
     "revision": "aa0f2c0aa7af92f24b01",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BetaAutoTrade/static/media/facebook.2da305ee.png"
   },
   {
-    "revision": "674b99792421221e301a4753e222869e",
-    "url": "/BetaAutoTrade/static/media/logo.674b9979.jpg"
+    "revision": "c6f32be2749fbb41a993e97f194341e9",
+    "url": "/BetaAutoTrade/static/media/logo.c6f32be2.png"
   },
   {
     "revision": "f20650198ed4e3b15d491086e5ea5498",

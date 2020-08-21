@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/BetaAutoTrade/static/css/main.11f375a9.chunk.css",
-    "main.js": "/BetaAutoTrade/static/js/main.18b616c0.chunk.js",
-    "main.js.map": "/BetaAutoTrade/static/js/main.18b616c0.chunk.js.map",
+    "main.css": "/BetaAutoTrade/static/css/main.ffacf2cc.chunk.css",
+    "main.js": "/BetaAutoTrade/static/js/main.4ce91357.chunk.js",
+    "main.js.map": "/BetaAutoTrade/static/js/main.4ce91357.chunk.js.map",
     "runtime-main.js": "/BetaAutoTrade/static/js/runtime-main.d1b0da35.js",
     "runtime-main.js.map": "/BetaAutoTrade/static/js/runtime-main.d1b0da35.js.map",
     "static/js/2.2f61e089.chunk.js": "/BetaAutoTrade/static/js/2.2f61e089.chunk.js",
     "static/js/2.2f61e089.chunk.js.map": "/BetaAutoTrade/static/js/2.2f61e089.chunk.js.map",
     "index.html": "/BetaAutoTrade/index.html",
-    "precache-manifest.603b6d30e52c3e2d8c295724f76fe3ef.js": "/BetaAutoTrade/precache-manifest.603b6d30e52c3e2d8c295724f76fe3ef.js",
+    "precache-manifest.4095432763cc08c28077d2e677289658.js": "/BetaAutoTrade/precache-manifest.4095432763cc08c28077d2e677289658.js",
     "service-worker.js": "/BetaAutoTrade/service-worker.js",
-    "static/css/main.11f375a9.chunk.css.map": "/BetaAutoTrade/static/css/main.11f375a9.chunk.css.map",
+    "static/css/main.ffacf2cc.chunk.css.map": "/BetaAutoTrade/static/css/main.ffacf2cc.chunk.css.map",
     "static/js/2.2f61e089.chunk.js.LICENSE.txt": "/BetaAutoTrade/static/js/2.2f61e089.chunk.js.LICENSE.txt",
     "static/media/facebook.png": "/BetaAutoTrade/static/media/facebook.2da305ee.png",
-    "static/media/logo.jpg": "/BetaAutoTrade/static/media/logo.674b9979.jpg",
+    "static/media/logo.png": "/BetaAutoTrade/static/media/logo.c6f32be2.png",
     "static/media/telegram.png": "/BetaAutoTrade/static/media/telegram.f2065019.png",
     "static/media/usagif.gif": "/BetaAutoTrade/static/media/usagif.9b5c130f.gif",
     "static/media/viber.png": "/BetaAutoTrade/static/media/viber.07c0f475.png"
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.d1b0da35.js",
     "static/js/2.2f61e089.chunk.js",
-    "static/css/main.11f375a9.chunk.css",
-    "static/js/main.18b616c0.chunk.js"
+    "static/css/main.ffacf2cc.chunk.css",
+    "static/js/main.4ce91357.chunk.js"
   ]
 }
