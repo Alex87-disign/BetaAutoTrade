@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BetaAutoTrade/static/css/main.d891be8c.chunk.css",
-    "main.js": "/BetaAutoTrade/static/js/main.0f78cb54.chunk.js",
-    "main.js.map": "/BetaAutoTrade/static/js/main.0f78cb54.chunk.js.map",
+    "main.css": "/BetaAutoTrade/static/css/main.5b7540ab.chunk.css",
+    "main.js": "/BetaAutoTrade/static/js/main.b3dd3a11.chunk.js",
+    "main.js.map": "/BetaAutoTrade/static/js/main.b3dd3a11.chunk.js.map",
     "runtime-main.js": "/BetaAutoTrade/static/js/runtime-main.d1b0da35.js",
     "runtime-main.js.map": "/BetaAutoTrade/static/js/runtime-main.d1b0da35.js.map",
     "static/js/2.2f61e089.chunk.js": "/BetaAutoTrade/static/js/2.2f61e089.chunk.js",
     "static/js/2.2f61e089.chunk.js.map": "/BetaAutoTrade/static/js/2.2f61e089.chunk.js.map",
     "index.html": "/BetaAutoTrade/index.html",
-    "precache-manifest.5469eb8429697ecc13cb2749392f2825.js": "/BetaAutoTrade/precache-manifest.5469eb8429697ecc13cb2749392f2825.js",
+    "precache-manifest.49f112f4f3aed26e33329ea624873b2c.js": "/BetaAutoTrade/precache-manifest.49f112f4f3aed26e33329ea624873b2c.js",
     "service-worker.js": "/BetaAutoTrade/service-worker.js",
-    "static/css/main.d891be8c.chunk.css.map": "/BetaAutoTrade/static/css/main.d891be8c.chunk.css.map",
+    "static/css/main.5b7540ab.chunk.css.map": "/BetaAutoTrade/static/css/main.5b7540ab.chunk.css.map",
     "static/js/2.2f61e089.chunk.js.LICENSE.txt": "/BetaAutoTrade/static/js/2.2f61e089.chunk.js.LICENSE.txt",
     "static/media/facebook.png": "/BetaAutoTrade/static/media/facebook.2da305ee.png",
     "static/media/logo.jpg": "/BetaAutoTrade/static/media/logo.674b9979.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.d1b0da35.js",
     "static/js/2.2f61e089.chunk.js",
-    "static/css/main.d891be8c.chunk.css",
-    "static/js/main.0f78cb54.chunk.js"
+    "static/css/main.5b7540ab.chunk.css",
+    "static/js/main.b3dd3a11.chunk.js"
   ]
 }
