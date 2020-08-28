@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e362414872250a857ce604a6861d7be",
+    "revision": "8dc816dd6deae16558de96581da0bd5a",
     "url": "/BetaAutoTrade/index.html"
   },
   {
-    "revision": "fdd721b08c76cd76ecda",
-    "url": "/BetaAutoTrade/static/css/main.ffacf2cc.chunk.css"
+    "revision": "c5fa824d907c88ca7db8",
+    "url": "/BetaAutoTrade/static/css/main.670e9c97.chunk.css"
   },
   {
-    "revision": "6c7fc0ea0d8a734b2917",
-    "url": "/BetaAutoTrade/static/js/2.2f61e089.chunk.js"
+    "revision": "b31915cd1a73c6690112",
+    "url": "/BetaAutoTrade/static/js/2.b3324d6b.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/BetaAutoTrade/static/js/2.2f61e089.chunk.js.LICENSE.txt"
+    "revision": "54fd6816419f7824e2804745930c9117",
+    "url": "/BetaAutoTrade/static/js/2.b3324d6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fdd721b08c76cd76ecda",
-    "url": "/BetaAutoTrade/static/js/main.4ce91357.chunk.js"
+    "revision": "c5fa824d907c88ca7db8",
+    "url": "/BetaAutoTrade/static/js/main.aeb30bd1.chunk.js"
   },
   {
     "revision": "aa0f2c0aa7af92f24b01",
     "url": "/BetaAutoTrade/static/js/runtime-main.d1b0da35.js"
+  },
+  {
+    "revision": "d372f6ee5682e23810c75f382b430ec9",
+    "url": "/BetaAutoTrade/static/media/autoinstock.d372f6ee.jpg"
   },
   {
     "revision": "2da305ee2bd58b5983eba6ce178e568a",

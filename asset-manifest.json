@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/BetaAutoTrade/static/css/main.ffacf2cc.chunk.css",
-    "main.js": "/BetaAutoTrade/static/js/main.4ce91357.chunk.js",
-    "main.js.map": "/BetaAutoTrade/static/js/main.4ce91357.chunk.js.map",
+    "main.css": "/BetaAutoTrade/static/css/main.670e9c97.chunk.css",
+    "main.js": "/BetaAutoTrade/static/js/main.aeb30bd1.chunk.js",
+    "main.js.map": "/BetaAutoTrade/static/js/main.aeb30bd1.chunk.js.map",
     "runtime-main.js": "/BetaAutoTrade/static/js/runtime-main.d1b0da35.js",
     "runtime-main.js.map": "/BetaAutoTrade/static/js/runtime-main.d1b0da35.js.map",
-    "static/js/2.2f61e089.chunk.js": "/BetaAutoTrade/static/js/2.2f61e089.chunk.js",
-    "static/js/2.2f61e089.chunk.js.map": "/BetaAutoTrade/static/js/2.2f61e089.chunk.js.map",
+    "static/js/2.b3324d6b.chunk.js": "/BetaAutoTrade/static/js/2.b3324d6b.chunk.js",
+    "static/js/2.b3324d6b.chunk.js.map": "/BetaAutoTrade/static/js/2.b3324d6b.chunk.js.map",
     "index.html": "/BetaAutoTrade/index.html",
-    "precache-manifest.4095432763cc08c28077d2e677289658.js": "/BetaAutoTrade/precache-manifest.4095432763cc08c28077d2e677289658.js",
+    "precache-manifest.1495c7c651bcb63f873c119c0e6e8c63.js": "/BetaAutoTrade/precache-manifest.1495c7c651bcb63f873c119c0e6e8c63.js",
     "service-worker.js": "/BetaAutoTrade/service-worker.js",
-    "static/css/main.ffacf2cc.chunk.css.map": "/BetaAutoTrade/static/css/main.ffacf2cc.chunk.css.map",
-    "static/js/2.2f61e089.chunk.js.LICENSE.txt": "/BetaAutoTrade/static/js/2.2f61e089.chunk.js.LICENSE.txt",
+    "static/css/main.670e9c97.chunk.css.map": "/BetaAutoTrade/static/css/main.670e9c97.chunk.css.map",
+    "static/js/2.b3324d6b.chunk.js.LICENSE.txt": "/BetaAutoTrade/static/js/2.b3324d6b.chunk.js.LICENSE.txt",
+    "static/media/ourworks.css": "/BetaAutoTrade/static/media/autoinstock.d372f6ee.jpg",
     "static/media/facebook.png": "/BetaAutoTrade/static/media/facebook.2da305ee.png",
     "static/media/logo.png": "/BetaAutoTrade/static/media/logo.c6f32be2.png",
     "static/media/telegram.png": "/BetaAutoTrade/static/media/telegram.f2065019.png",
@@ -20,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d1b0da35.js",
-    "static/js/2.2f61e089.chunk.js",
-    "static/css/main.ffacf2cc.chunk.css",
-    "static/js/main.4ce91357.chunk.js"
+    "static/js/2.b3324d6b.chunk.js",
+    "static/css/main.670e9c97.chunk.css",
+    "static/js/main.aeb30bd1.chunk.js"
   ]
 }
