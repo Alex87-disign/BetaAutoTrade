@@ -1,11 +1,13 @@
 .carsfromusa{
-    padding: 50px;
+    padding: 20px;
     border: 1px solid black;
     font-family: 'Alata', sans-serif;
     font-size: 90%;
     background-color: rgb(231, 231, 231);
     margin: 20px;
     margin-top: 0px;
+    /* background-image: url(../../img/autoinstock.jpg); */
+    /* text-shadow: 1px 1px 2px black, 0 0 0em rgb(190, 186, 186); */
 }
 li{
     padding-top: 10px;

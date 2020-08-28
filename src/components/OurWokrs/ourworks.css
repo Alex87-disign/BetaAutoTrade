@@ -2,6 +2,15 @@ h2{
     text-align: center;
 }
 .main{
+	font-family: 'Fredoka One', cursive;
+	/* background: linear-gradient(to top, #8ecca3, #9dc2b7, #5f6597,rgb(202, 158, 158)); */
+	background-image: url(../../img/autoinstock.jpg);
+	background-size: cover;
+}
+.phone1{
+	text-align: center;
+}
+.main1{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     grid-template-rows: 500px 500px 500px;   
@@ -10,6 +19,15 @@ h2{
     /* font-family: 'Libre Caslon Display', serif; */
     /* font-family: 'Bangers', cursive; */
     font-family: 'Heebo', sans-serif;
+    /* background: linear-gradient(to top, #8ecca3, #9dc2b7, #5f6597,rgb(155, 73, 73)); */
+    
+}
+.main h4{
+	text-align: center;
+
+}
+.box1{
+	display: none;
 }
 .cssSlider {
 	display: block;
@@ -17,7 +35,7 @@ h2{
 	width: 400px;
     overflow: hidden;
     margin: 12px;
-    border: 1px black;
+    border: 3px orangered;
 }
 .cssSlider .slides {
 	overflow: hidden;
@@ -117,29 +135,33 @@ h2{
 	}
 }
 .box_2,.box_3,.box_4{
-    border: 1px solid black;
+    border: 1px solid orangered;
     margin: 10px;
     height: 500px;
-    background: linear-gradient(to top, #c5ebe0,rgb(209, 199, 199));
+    background: linear-gradient(to top, #62645d,rgb(187, 146, 146));
     
 }
 .carinfo{
     margin: 12px;
 }
+
+
 @media screen and (max-width:768px){
-    .main{
+    .main1{
         display: grid;
-        grid-template-columns: 399px;
+        grid-template-columns: 370px;
         grid-template-rows: 500px 500px 500px;   
         grid-column-gap: 10px;
-        grid-row-gap: 10px;
+		grid-row-gap: 10px;
+		width: 100%;
     }
     .cssSlider{
-        width:354px;
+        width:320px;
     }
 
     /* .box_2,.box_3,.box_4{
         height: 100%;
         width: 100%;
-    } */
+	} */
+	/*  */
 }

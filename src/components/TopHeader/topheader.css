@@ -6,16 +6,18 @@
     width: 100%;
     justify-content: center;
     justify-items: center;
+    /* font-family: 'Anton', sans-serif; */
+    font-family: 'Fredoka One', cursive;
 }
 .social{
-    padding-top: 30px;
+    padding-top: 20px;
     grid-area:a;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr ;
    justify-items: center;
     
 }
 .telegram{
-    padding-top: 20px;
+    padding-top: 0px;
 }
 .logo{
    grid-area: b;  
@@ -30,9 +32,13 @@
     max-width: 100%;
     box-sizing: border-box;
     justify-content: center;
+    border: 2px solid orangered;
+}
+.graficlogo:hover{
+    border: 2px solid white;
 }
 .phone a{
-    color: rgb(182, 26, 72);
+    color:orangered;
     justify-content: center;
     text-decoration-color: none;
     text-decoration-line: none;
@@ -48,6 +54,7 @@
 }
 .mobile_phone{
     color: blanchedalmond;
+    margin-top: 40px;
 }
 .mobile_phone{
     animation: blink 2s infinite;
@@ -68,6 +75,12 @@
     }  
     .viber{
         font-size: small;
+        
     }
-
+    .top_header{
+        width: 100%;}
+        
+.mobile_phone{
+    font-size: smaller;
+}
 }
